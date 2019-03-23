@@ -1,5 +1,4 @@
 // List of countries.
-// Scroll past this list to code.
 const countries = [
   { name: 'Afghanistan', code: 'AF' },
   { name: 'Aland Islands', code: 'AX' },
@@ -253,5 +252,4 @@ const countries = [
   { name: 'Zimbabwe', code: 'ZW' }
 ]
 
-// # START EDITING YOUR JAVASCRIPT HERE
-// ===============
+

@@ -109,3 +109,11 @@ input:valid ~ .dropdown {
   background-color: var(--tint);
   border-color: var(--accent);
 }
+
+input.is-filled + .search-icon {
+  background-color: var(--accent);
+}
+
+input.is-filled ~ .dropdown {
+  display: block;
+}
